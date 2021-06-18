@@ -15,6 +15,7 @@ echo "<h1>$data</h1>";
 echo '<p>' . $day.'</p>';
 
 ?>
+<!--div containing php>-->
 <div style="bacground-color:green;color:white;">
 <?php echo $test?>
 </div>
